@@ -3,4 +3,7 @@
     <string name="text_value">Digite o valor que deseja converter:</string>
     <string name="dolar_text">Dolar</string>
     <string name="euro_text">Euro</string>
+    <string name="mensagem_erro">Digite um valor valido</string>
+    <string name="format_dolar">"%.2f" Dolar</string>
+    <string name="format_euro">"%.2f" Euro</string>
 </resources>
